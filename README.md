@@ -1,2 +1,2 @@
 # Blog-con-HTML-y-CSS
-Blog personal, sobre mis inicios
+Blog personal, sobre mis inicios en la programación
